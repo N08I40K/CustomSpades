@@ -1,0 +1,12 @@
+{
+  "Versions": [
+    {
+      "Version": [0, 1, 5, 0],
+      "VersionText": "0.1.5",
+      "Platforms": ["Windows", "Mac", "SourceCode"],
+      "Links": {
+        "Info": "https://github.com/N08I40K/CustomSpades/releases/tag/v1.0.0"
+      }
+    }
+  ]
+}
